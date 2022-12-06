@@ -7,7 +7,7 @@
 - __Telegram__ @NaviOdinson
 - __Discord__ (@ivanshybut)
 ### About me:
-My name is Ivan and I'm a QA Engineer. 
+My name is Ivan, I'm from Belarus, Minsk and I'm a QA Engineer. 
 I am learning different programming languages ​​like JavaScript/TypeScript and Python. In the near future, there is a desire to go deeper into mobile development in order to improve the mobile app testing experience.
 I like to explore everything new and unknown. Sports, music, travel, science, knowledge and people. That's what inspires me.
 ### Skills:
