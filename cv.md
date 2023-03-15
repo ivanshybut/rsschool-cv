@@ -6,10 +6,11 @@
 - __GitHub__ https://github.com/ivanshybut
 - __Telegram__ @NaviOdinson
 - __Discord__ (@ivanshybut)
+- __Slack__ (@ivanshybut)
 ### About me:
 My name is Ivan, I'm from Belarus, Minsk and I'm a QA Engineer. 
 I am learning different programming languages ​​like JavaScript/TypeScript and Python. In the near future, there is a desire to go deeper into mobile development in order to improve the mobile app testing experience.
-I like to explore everything new and unknown. Sports, music, travel, science, knowledge and people. That's what inspires me.
+I like to explore everything new and unknown. Sports, music, travel, science. That's what inspires me.
 ### Skills:
 - Good QA theory knowledge
 - Understanding of software development processes, stages, concepts and methodologies of Quality Assurance
@@ -26,7 +27,6 @@ I like to explore everything new and unknown. Sports, music, travel, science, kn
 - Python(basic)
 - VSCode/PyCharm   
 - Linux Command Line 
-- Git 
 - Github 
 - Postman
 - DBeaver
@@ -59,9 +59,9 @@ Minsk, Belarus.
 * UDEMY ["Tester from scratch. Web, Mobile, Postman, SQL, Git, Bash" by Artsiom Rusau](https://udemy-certificate.s3.amazonaws.com/image/UC-f6c31585-f3d4-4042-b66f-1ce36628166c.jpg)
 * Linkedin [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/certificates/db90dc9d98697dd0b2d99d08f1dfc4ab96be1519087e71c39b1e09b53b1acdb0?trk=share_certificate)
 * Sololearn [SQL Course](https://www.sololearn.com/Certificate/CT-JTVR73BJ/png)
-***
-Institute of Parliamentarism and Entrepreneurship
-  * Business Administering Qualification: managing economist
+
+### Institute of Parliamentarism and Entrepreneurship
+* Business Administering Qualification: managing economist
 ### Languages:
 - Russian - Native
 - Belarusian - Native
